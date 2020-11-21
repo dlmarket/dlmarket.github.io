@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Chips"
 date:   2016-07-21 12:00:00 -0400
 categories: jekyll update
 ---
